@@ -34,9 +34,7 @@ significant digit after adding one. If it is 'A' (1010 in binary), then six is a
 digit becomes '0' and the most significant digit increases by one. The datapath consists of registers to 
 store the values, an adder, an equality comparitor to check if the least significant digit is 'A', and 
 multiplexers to select the proper values to add. The control circuit is an FSM that sequences through the 
-steps and outputs con[Lab15b_TopLevel.pdf](https://github.com/cjdrangel209/CMPEN270-Lab15b-PongPart2/files/11512691/Lab15b_TopLevel.pdf)
-[Lab15b_ScoreBoard.pdf](https://github.com/cjdrangel209/CMPEN270-Lab15b-PongPart2/files/11512692/Lab15b_ScoreBoard.pdf)
-trol signals such as the load input to the registers and the select signals for the 
+steps and outputs control signals such as the load input to the registers and the select signals for the 
 multiplexers.
 
 [Lab15b_TopLevel.pdf](https://github.com/cjdrangel209/CMPEN270-Lab15b-PongPart2/files/11512695/Lab15b_TopLevel.pdf)
